@@ -1,5 +1,6 @@
 {
     "files.associations": {
         "ostream": "cpp"
-    }
+    },
+    "python.pythonPath": "C:\\Users\\kgerg\\AppData\\Local\\Programs\\Python\\Python38-32\\python.exe"
 }
